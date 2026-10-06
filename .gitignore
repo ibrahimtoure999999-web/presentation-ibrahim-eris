@@ -1,0 +1,8 @@
+# Fichiers générés localement ; le code et les images restent suivis.
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+*.log
+__pycache__/
+node_modules/
