@@ -42,6 +42,12 @@ presentation-ibrahim-eris/
 
 Suivez [le guide Git et GitHub](GUIDE_GIT_GITHUB.md) pour configurer l’auteur, enregistrer le projet, le pousser sur GitHub et activer GitHub Pages. Les identifiants et adresses d’exemple doivent être remplacés par ceux de votre propre compte.
 
+Le dépôt local livré est initialisé sur `main`, avec un premier commit et un distant préparé pour le compte `ibrahimtoure999999-web`. L’adresse d’auteur utilise le format de confidentialité GitHub. La présence d’un distant local ne prouve pas que le dépôt existe sur GitHub : la création et l’envoi nécessitent une connexion au bon compte. L’archive ZIP contient les sources sans l’historique `.git`, pour reproduire le travail vous-même.
+
+## Vérifications réalisées
+
+La page a été contrôlée dans Microsoft Edge : images chargées, cinq étapes interactives, copie réelle dans le presse-papiers, menu mobile et fermeture avec Échap. Aucun débordement horizontal n’a été constaté à 320, 390, 768 et 1440 pixels. Le guide est disponible, les paragraphes restent accessibles sans JavaScript, et aucune erreur JavaScript ou HTTP n’a été observée pendant ces contrôles.
+
 ## Personnaliser
 
 Modifiez les paragraphes dans `index.html`, les couleurs au début de `style.css` et les étapes dans le tableau `steps` de `script.js`. Les textes se limitent aux informations fournies : aucun parcours professionnel, diplôme obtenu ou contact personnel n’a été inventé.

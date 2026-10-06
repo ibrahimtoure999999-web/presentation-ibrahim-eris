@@ -4,6 +4,17 @@ Projet : **Touré Ibrahim — Master 1 ERIS, ESATIC**.
 
 Le site est déjà créé. Ce guide vous permet de reproduire les manipulations, de comprendre leur rôle et d’envoyer le code sur votre propre compte GitHub. Les exemples ci-dessous utilisent PowerShell.
 
+## Repères pour votre projet livré
+
+- Compte indiqué : `ibrahimtoure999999-web`.
+- Dossier de travail : `F:\Projets\presentation-ibrahim-eris`.
+- Branche locale : `main`.
+- Premier commit créé : `9b12c60` — `Créer le site de présentation et le guide Git GitHub`.
+- Distant local préparé : `https://github.com/ibrahimtoure999999-web/presentation-ibrahim-eris.git`.
+- Adresse d’auteur locale : `236772371+ibrahimtoure999999-web@users.noreply.github.com` (format de confidentialité GitHub).
+
+Le dépôt local est prêt. Vérifiez sur GitHub la création du dépôt et l’envoi effectif avant de considérer la publication comme terminée. Dans les exemples génériques ci-dessous, remplacez `VOTRE_IDENTIFIANT` par `ibrahimtoure999999-web` si vous utilisez ce compte.
+
 ## 1. Vérifier les prérequis et ouvrir le dossier
 
 Il faut Git installé et un compte GitHub pour l’envoi distant. Vérifiez Git :
