@@ -2,6 +2,14 @@
 
 Site de présentation réalisé pour un projet académique à l’ESATIC. L’exercice associe la création d’un site léger à l’apprentissage de Git, puis de GitHub.
 
+## Accéder au projet
+
+- [Dépôt public et historique des commits](https://github.com/ibrahimtoure999999-web/presentation-ibrahim-eris)
+- [Site avec GitHub Pages](https://ibrahimtoure999999-web.github.io/presentation-ibrahim-eris/)
+- [Guide pour reproduire les étapes Git et GitHub](GUIDE_GIT_GITHUB.md)
+
+GitHub Pages utilise la branche `main` et la racine du dépôt. Les modifications envoyées sur cette branche déclenchent la mise à jour du site.
+
 ## Ouvrir le site
 
 Ouvrez `index.html` dans votre navigateur : aucune installation n’est nécessaire. Les images et les styles sont locaux ; le site fonctionne sans connexion Internet. Si le navigateur bloque la copie de commandes, le bouton sélectionne le texte pour une copie manuelle.
@@ -42,7 +50,7 @@ presentation-ibrahim-eris/
 
 Suivez [le guide Git et GitHub](GUIDE_GIT_GITHUB.md) pour configurer l’auteur, enregistrer le projet, le pousser sur GitHub et activer GitHub Pages. Les identifiants et adresses d’exemple doivent être remplacés par ceux de votre propre compte.
 
-Le dépôt local livré est initialisé sur `main`, avec un premier commit et un distant préparé pour le compte `ibrahimtoure999999-web`. L’adresse d’auteur utilise le format de confidentialité GitHub. La présence d’un distant local ne prouve pas que le dépôt existe sur GitHub : la création et l’envoi nécessitent une connexion au bon compte. L’archive ZIP contient les sources sans l’historique `.git`, pour reproduire le travail vous-même.
+Le dépôt local livré est initialisé sur `main` et ses commits sont envoyés dans le dépôt public du compte `ibrahimtoure999999-web`. L’adresse d’auteur utilise le format de confidentialité GitHub. Le distant `origin` pointe vers ce dépôt et la branche locale suit `origin/main`. L’archive ZIP contient les sources sans l’historique `.git`, pour reproduire le travail vous-même.
 
 ## Vérifications réalisées
 

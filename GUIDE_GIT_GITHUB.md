@@ -10,10 +10,12 @@ Le site est déjà créé. Ce guide vous permet de reproduire les manipulations,
 - Dossier de travail : `F:\Projets\presentation-ibrahim-eris`.
 - Branche locale : `main`.
 - Premier commit créé : `9b12c60` — `Créer le site de présentation et le guide Git GitHub`.
-- Distant local préparé : `https://github.com/ibrahimtoure999999-web/presentation-ibrahim-eris.git`.
+- Dépôt public créé et commits envoyés : `https://github.com/ibrahimtoure999999-web/presentation-ibrahim-eris`.
+- Distant `origin` : `https://github.com/ibrahimtoure999999-web/presentation-ibrahim-eris.git`.
+- GitHub Pages configuré sur `main`, dossier `/ (root)` : `https://ibrahimtoure999999-web.github.io/presentation-ibrahim-eris/`.
 - Adresse d’auteur locale : `236772371+ibrahimtoure999999-web@users.noreply.github.com` (format de confidentialité GitHub).
 
-Le dépôt local est prêt. Vérifiez sur GitHub la création du dépôt et l’envoi effectif avant de considérer la publication comme terminée. Dans les exemples génériques ci-dessous, remplacez `VOTRE_IDENTIFIANT` par `ibrahimtoure999999-web` si vous utilisez ce compte.
+Le projet livré dispose déjà de son dépôt GitHub public. Le premier envoi a été vérifié en comparant les identifiants du commit local et du commit distant. GitHub Pages déploie le site depuis `main`. Les étapes suivantes expliquent comment reproduire la procédure dans un nouveau dossier et un nouveau dépôt ; ne recréez pas le dépôt existant. Dans les exemples génériques ci-dessous, remplacez `VOTRE_IDENTIFIANT` par `ibrahimtoure999999-web` si vous utilisez ce compte.
 
 ## 1. Vérifier les prérequis et ouvrir le dossier
 
